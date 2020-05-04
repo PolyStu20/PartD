@@ -2,8 +2,9 @@
 public class main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		// assignment 2 Part D. Adding lines and committing changes
+			System.out.println("Hi, my name is Stuart");
+		
 	}
 
 }
